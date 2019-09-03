@@ -1,0 +1,18 @@
+SMAP
+addcategories_jsp.java
+JSP
+*S JSP
+*F
++ 0 addcategories.jsp
+addcategories.jsp
++ 1 adminheader.jsp
+adminheader.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,7:52
+5#1,44:58
+11#0,25:101
+5#2,19:125
+35#0:143
+*E

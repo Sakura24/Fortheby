@@ -1,0 +1,21 @@
+SMAP
+requestaccepted_jsp.java
+JSP
+*S JSP
+*F
++ 0 requestaccepted.jsp
+requestaccepted.jsp
++ 1 header.jsp
+header.jsp
+*L
+5:51
+5#1,10:52
+14,39:62
+52,4:101
+55:105
+56:106,6
+57:112
+58,6:114
+63,35:120
+6#0,16:155
+*E

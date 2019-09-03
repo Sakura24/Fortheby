@@ -1,0 +1,29 @@
+SMAP
+additems_jsp.java
+JSP
+*S JSP
+*F
++ 0 additems.jsp
+additems.jsp
++ 1 adminheader.jsp
+adminheader.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5:53
+5#1,2:54
+8,3:57
+10,37:60
+47:97,3
+48,34:100
+6#0,8:133
+13,24:141
+36,4:165
+39,2:169
+41:171,6
+42:177
+44,7:180
+50,33:187
+5#2,19:219
+82#0:237
+*E

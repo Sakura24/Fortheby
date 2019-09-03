@@ -1,0 +1,29 @@
+SMAP
+admindisplaycategories_jsp.java
+JSP
+*S JSP
+*F
++ 0 admindisplaycategories.jsp
+admindisplaycategories.jsp
++ 1 adminheader.jsp
+adminheader.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5:53
+5#1,2:54
+8,3:57
+10,37:60
+47:97,3
+48,34:100
+6#0,9:133
+14,23:142
+37,4:166
+40,3:170
+43,2:173,3
+45:179,7
+46,3:186
+49,6:190
+54,6:196
+5#2,19:201
+*E
